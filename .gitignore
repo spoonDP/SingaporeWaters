@@ -1,0 +1,41 @@
+# Unreal Engine generated folders
+Binaries/
+Build/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# Unreal Engine generated files
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcworkspace
+*.xcodeproj
+*.pri
+
+# Visual Studio
+.vs/
+*.user
+
+# Visual Studio upgrade/migration logs
+UpgradeLog*.htm
+
+# Rider / JetBrains
+.idea/
+*.iws
+*.iml
+
+# Compiled source
+*.pdb
+*.exp
+*.lib
+*.dll
+*.exe
+
+# Cesium and plugin cache databases
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
